@@ -1,4 +1,4 @@
-package config;
+package ch.fhnw.tutorial.springangularapp.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
